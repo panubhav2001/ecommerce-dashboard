@@ -24,3 +24,4 @@ This dashboard is designed to help e-commerce businesses track sales performance
 
 ## Conclusion
 This dashboard provides a quick overview of key business metrics, enabling better decision-making and strategic planning.
+![E-commerce Dashboard](./image.png)
